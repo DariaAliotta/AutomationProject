@@ -5,6 +5,8 @@ public class ForGithubPurpose {
 
         String name ="USA";
         String lastName = "Russia";
+        int age = 29;
+
 
 
 
