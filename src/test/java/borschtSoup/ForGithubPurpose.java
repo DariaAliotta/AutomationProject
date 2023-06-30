@@ -7,7 +7,9 @@ public class ForGithubPurpose {
         String lastName = "Russia";
         int age = 29;
 
-
+        // git add .
+        // git commit -m "yourMessage"
+        // git push
 
 
 
