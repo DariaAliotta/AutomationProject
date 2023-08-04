@@ -16,7 +16,7 @@ public class DataType {
         double age =3.4;
         float weight = 117.50f;
         String streetName = "Burnett";
-        System.out.println(10);
+        System.out.println(phoneNumber);
         System.out.println(2);
         System.out.println(3);
         System.out.println(123093710);
