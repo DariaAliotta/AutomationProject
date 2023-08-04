@@ -15,6 +15,7 @@ public class DataType {
         String lastname = "Ali";
         double age =3.4;
         float weight = 117.50f;
+        String streetName = "Burnett";
         System.out.println(10);
         System.out.println(2);
         System.out.println(3);
@@ -24,6 +25,7 @@ public class DataType {
         System.out.println("Ali");
         System.out.println(3.4);
         System.out.println(117.70f);
+        System.out.println(streetName);
 
 
     }

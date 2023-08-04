@@ -13,6 +13,12 @@ public class TrttoLearn {
         System.out.println("Hey Daria, can you type any number, it is bigger then zero");
         String nbr = scan.nextLine();
 
+
+
+
+
+
+
         System.err.println(" Hey you did good job, I expected this nbr: " + nbr);
 
 
