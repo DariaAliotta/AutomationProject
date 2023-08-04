@@ -1,4 +1,4 @@
-package borschtSoup;
+package borschtsoup;
 
 public class ForGithubPurpose {
     public static void main(String[] args) {

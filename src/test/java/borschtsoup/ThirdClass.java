@@ -1,4 +1,4 @@
-package borschtSoup;
+package borschtsoup;
 
 public class ThirdClass {
 }
