@@ -17,6 +17,8 @@ public class DataType {
         float Ff = 117.58f;
 
 
+
+
         String nameOfTheCompany = "CosmeticPro";
         System.out.println(ticketNumber);
         System.out.println(a);
